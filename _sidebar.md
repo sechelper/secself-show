@@ -1,16 +1,16 @@
 - 坤门介绍
   - [付费社群：坤门](README.md)
   - [学生党福利](student.md)
-  - [坤门原则](principle.md)
   - [加入坤门](join.md)
 - 内部资源，一次回本
+  - [几十套视频教程，学个够 ](videos.md)
   - [黑帽编程计划 - HCP（Hacker Coding Plan） ](hcp.md)
   - [网络安全应急响应手册](respons.md)
   - [攻防靶场](vulab.md)
   - [内部论坛，知识沉淀](https://secself.com/)
   - [面试宝典](https://interview.secself.com/)
   - [技术干货博客](https://blog.sechelper.com/)
+- [坤门原则](principle.md)
 - [待做清单](checklist.md)
 - [激励计划](incentive.md)
 - [致谢](thanks.md)
-

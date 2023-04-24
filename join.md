@@ -2,7 +2,7 @@
 
 扫码添加**坤哥**，只有这一个账户，其它都是假的切勿相信。添加时备注“坤门”。
 
-![](F:\Temp\join\课件-16823227769321.png)
+![坤哥二维码](https://static.sechelper.com/img/qrcode/%E8%AF%BE%E4%BB%B6.png)
 
 ## 💰价格
 
