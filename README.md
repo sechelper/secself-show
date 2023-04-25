@@ -4,11 +4,17 @@
 
 **坤门**是助安社区付费社群，以 “帮助成员上岸，找到心仪工作” 为终极目标 ，不是像某些圈子只分享工具、教程而已。
 
-## 😉加入坤门
+## 加入坤门
 
-扫码添加**坤哥**，只有这一个账户，其它都是假的切勿相信。添加时备注“坤门”。
+微信扫码**（左侧）**购买入场券，下单后添加**坤哥（右侧二维码）**，只有这一个账户，其它都是假的切勿相信。添加时备注“坤门”。
 
-![坤哥二维码](https://static.sechelper.com/img/qrcode/%E8%AF%BE%E4%BB%B6.png)
+<div>
+    <center>
+        <img style="height 300px; width: 300px;" src="https://static.sechelper.com/img/qrcode/10000018910900.jpg"/>
+    	<img style="height 300px; width: 300px;" src="https://static.sechelper.com/img/qrcode/%E8%AF%BE%E4%BB%B6.png"/>
+    </center>
+</div>
+
 
 ## 💰价格
 
@@ -18,9 +24,10 @@
 
 ### 💲续费
 
-- 第二年**7折**续费
+- ❤️第二年**7折**续费
 
-- 🔥第三年**5折续费**
+- 🔥第三年及后续**5折续费**
+
 
 ## 🏠大家庭
 
