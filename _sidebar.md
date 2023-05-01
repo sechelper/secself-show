@@ -7,7 +7,7 @@
 - **初入坤门**
   - [【新手大礼包】电子书、直播回放、课程和外部资源](private/pack.md)
   - [【学生专属礼包】费用减免](student.md)
-  - [【支线】坤门原则](private/principle.md)
+  - [坤门原则](private/principle.md)
 - **内部资源，一次回本**
   - [几十套视频教程，学个够（云盘自取） ](private/pack.md)
   - [原创工具（建设中）](https://github.com/sechelper)
