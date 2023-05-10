@@ -1,13 +1,13 @@
-- **坤门：陪伴大家共同成长**
-  - [付费社群：坤门](README.md)
-  - [为什么加入，白嫖不香吗？](why.md)
-  - [真实反馈，成员评价，没病走两步](feedback.md)
+- **坤哥求包养**
+  - [成为金主老爷](README.md)
+  - [白嫖不香吗？](why.md)
+  - [真实反馈，老爷们评价，没病走两步](feedback.md)
 
 
-- **初入坤门**
-  - [【新手大礼包】电子书、直播回放、课程和外部资源](private/pack.md)
+- **老爷手册**
+  - [【大礼包】电子书、直播回放、课程和外部资源](private/pack.md)
   - [【学生专属礼包】费用减免](student.md)
-  - [坤门原则](private/principle.md)
+  - [老爷家规](private/principle.md)
 - **内部资源，一次回本**
   - [几十套视频教程，学个够（云盘自取） ](private/pack.md)
   - [原创工具（建设中）](https://github.com/sechelper)
