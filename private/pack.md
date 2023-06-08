@@ -6,7 +6,7 @@
 
 所有学习路线、直播回放和系列课都存放在百度云盘，防止内部资料外泄，**百度云盘**扫码添加坤哥，微信私聊百度云盘账户，拉老爷进云盘群。
 
-![](https://community-static.secself.com/img/qrcode/wangpan-person.png)
+![](https://paper.static.secself.com/img/qrcode/wangpan-person.png)
 
 ## 内部论坛
 
